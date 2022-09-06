@@ -1,2 +1,2 @@
 #!/bin/bash
-echo BcA | tr Ac Ze
+tr Ac Ze
